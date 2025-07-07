@@ -18,4 +18,7 @@ printf("👋 Introduction:\n");
     printf("🤖 Technology:\n");
     printf("I'm built Pre-trained Transformer).\n");
     printf("I use deep learning to understand and generate human-like text.\n\n");
+    printf("🌐 Note:\n");
+    printf("I don't have emotions or personal experiences,\n");
+    printf("but I'm trained on tons of data to simulate conversations.\n\n");
 
