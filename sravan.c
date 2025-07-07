@@ -15,3 +15,7 @@ printf("👋 Introduction:\n");
     printf("- reading books\n");
     printf("- playing cricket\n");
     printf("-okay.\n\n");
+    printf("🤖 Technology:\n");
+    printf("I'm built Pre-trained Transformer).\n");
+    printf("I use deep learning to understand and generate human-like text.\n\n");
+
